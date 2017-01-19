@@ -45,3 +45,13 @@ Para facilitar la coordinación y preparación de la actividad os pedimos que cu
 |---|---|---|---
 |19/01/2017	|17:00	|19:00	|CEP DE GRANADA
 |01/06/2017	|17:00	|19:00	|CEP DE GRANADA
+
+## Referencias
+
+* [Moodle del curso](http://educacionadistancia.juntadeandalucia.es/profesorado/course/view.php?id=1534)
+
+* [Curso de impresión 3D](https://github.com/javacasm/Dise-oImpresion3D) impartido en la Facultad de Ciencias de Granada 2016
+
+* [Curso Básico de Arduino](https://github.com/javacasm/ArduinoBasicoCEPCordoba) impartido en el CEP de Córdoba en 2016
+
+* [Curso Avanzado de Arduino](https://github.com/javacasm/ArduinoAvanzadoDE2015)  Facultad de Ciencias de Granada 2015
