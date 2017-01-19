@@ -44,4 +44,4 @@ Para facilitar la coordinación y preparación de la actividad os pedimos que cu
 |Fecha	|Hora de inicio	|Hora de fin	|Lugar de realización
 |---|---|---|---
 |19/01/2017	|17:00	|19:00	|CEP DE GRANADA
-|30/05/2017	|17:00	|19:00	|CEP DE GRANADA
+|01/06/2017	|17:00	|19:00	|CEP DE GRANADA
