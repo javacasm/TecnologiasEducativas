@@ -1,5 +1,8 @@
 # TECNOLOGÍAS EDUCATIVAS: PROYECTOS TIC, ROBÓTICA, ARDUINO E IMPRESIÓN 3D
 
+## CEP de Granada
+## Jose Ántonio Vacas Martínez @javacasm
+
 ## Objetivos
 
 - Conocer las posibilidades de la tecnología como recurso educativo.
