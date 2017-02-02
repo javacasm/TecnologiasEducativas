@@ -1,4 +1,24 @@
+# TECNOLOGÍAS EDUCATIVAS: PROYECTOS TIC, ROBÓTICA, ARDUINO E IMPRESIÓN 3D
+
+## CEP de Granada
+## Jose Ántonio Vacas Martínez @javacasm
+
 # Impresión 3D
+
+## Proceso de impresión
+
+1. Diseñamos (usando cualquier programa de diseño 3D: blender, freecad, Thinkercad.com, etc) o descargamos un modelo de algún repositorio (Thingiverse.com,youimagine.com, ...) en formato **STL** (la mayoría de los programas de diseño permiten exportar en este formato)
+2. Abrimos el fichero STL con el diseño en **Cura**
+  * Configuramos la **calidad** de la impresión:
+    * Altura de capa
+    * Velocidad de impresión
+    * ¿Necesitamos soportes?
+    * ¿Necesitamos mejorar la adhesión?
+  * Configuramos el tipo de **filamento** (PLA, ABS, ...) y la temperatura
+  * Guardamos el fichero **gcode** en la tarjeta
+3. Seleccionamos el fichero desde la impresora:
+4. Añadimos **laca** a la base
+
 
 ## Montaje y uso diario
 
