@@ -1,3 +1,8 @@
+# TECNOLOGÍAS EDUCATIVAS: PROYECTOS TIC, ROBÓTICA, ARDUINO E IMPRESIÓN 3D
+
+## CEP de Granada
+## Jose Ántonio Vacas Martínez @javacasm
+
 # Presentación Arduino Básico
 
 ## Software
@@ -12,10 +17,4 @@
 
 Mejor en formato ZIP que no necesita permisos de administrador
 
-## Primeros programas
-
-
-## Librerías
-
-
-## Proyectos
+[Tutorial de arduino](./Programación con Arduino.md)
